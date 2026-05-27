@@ -21,4 +21,4 @@ Perform Exploratory Data Analysis on Titanic dataset using Python libraries.
 - GitHub
 
 ## Author
-KIFULLAH ANSARI
+KAIFULLAH ANSARI
