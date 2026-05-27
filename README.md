@@ -1,17 +1,48 @@
-# Prodigy Infotech Data Science Internship
+# Prodigy InfoTech - Data Science Internship
 
-This repository contains all internship tasks completed during my Data Science Internship at Prodigy Infotech.
+## Overview
+This repository contains all tasks completed during my Data Science Internship at Prodigy InfoTech.
 
-## Skills Used
+The projects focus on:
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Machine Learning
+- Natural Language Processing (NLP)
+- Data Visualization
+- Sentiment Analysis
+
+---
+
+# Technologies Used
+
 - Python
 - Pandas
 - NumPy
-- Seaborn
 - Matplotlib
-- Machine Learning
+- Seaborn
+- Scikit-learn
+- NLTK
+- WordCloud
+- Google Colab
+- GitHub
 
-## Tasks
-- Data Cleaning
-- Exploratory Data Analysis
-- Visualization
-- Machine Learning
+---
+
+# Repository Structure
+
+```text
+Prodigy-InfoTech-DataScience-Internship/
+│
+├── Prodigy_DS_02/
+│   ├── Titanic_EDA_Analysis.ipynb
+│   ├── README.md
+│
+├── Prodigy_DS_03/
+│   ├── Decision_Tree_BankMarketing.ipynb
+│   ├── README.md
+│
+├── Prodigy_DS_04/
+│   ├── Twitter_Sentiment_Analysis.ipynb
+│   ├── README.md
+│
+└── README.md
